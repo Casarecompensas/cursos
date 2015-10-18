@@ -1,0 +1,100 @@
+<p><meta charset="utf-8" />
+<title>Flat Pricing Tables</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="description" content="" /><meta name="author" content="" /></p>
+<p><link rel="stylesheet" href="http://cursos.educacion.be/style.css" type="text/css" /> <link href="http://fonts.googleapis.com/css?family=ABeeZee" rel="stylesheet" type="text/css" /> <link href="http://cursos.educacion.be/bootstrap.css" rel="stylesheet" type="text/css" /> <link href="http://cursos.educacion.be/bootstrap-responsive.css" rel="stylesheet" type="text/css" /></p>
+<div class="container-fluid">
+<div class="row-fluid">
+<div class="span3 tiny ">
+<div class="pricing-table-header-tiny" style="text-align: center; background: #ffd500; color: white;">
+<h2>MS Word B</h2>
+<h3><img src="https://www.icip.edu.pe/sites/default/files/styles/thumbnail_de_cursos/public/ms-word-basico-paginaweb.png?itok=xQP_STmW" /></h3>
+</div>
+</div>
+<div class="span3 small">
+<div class="pricing-table-header-small" style="background-color: #9e00b8; text-align: center; color: white;">
+<h2>MS Word A</h2>
+<h3><img src="https://www.icip.edu.pe/sites/default/files/styles/thumbnail_de_cursos/public/ms-word-avanzado-paginaweb.png?itok=hiTFhWuR" /></h3>
+</div>
+</div>
+<div class="span3 medium">
+<div class="pricing-table-header-medium" style="background: #0078d7; color: white; text-align: center;">
+<h2>MS PowerPoint B</h2>
+<h3><img src="https://www.icip.edu.pe/sites/default/files/styles/thumbnail_de_cursos/public/ms-power-point-basico-paginaweb.png?itok=F3lO3f2M" /></h3>
+</div>
+</div>
+<div class="span3 pro">
+<div class="pricing-table-header-pro" style="background: red; color: white; text-align: center;">
+<h2>MS PowerPoint A</h2>
+<h3><img src="https://www.icip.edu.pe/sites/default/files/styles/thumbnail_de_cursos/public/ms-power-point-avanzado-paginaweb.png?itok=mUgJShvc" /></h3>
+</div>
+</div>
+</div>
+</div>
+<p><meta charset="utf-8" />
+<title>Flat Pricing Tables</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="description" content="" /><meta name="author" content="" /></p>
+<p><link rel="stylesheet" href="http://cursos.educacion.be/style.css" type="text/css" /> <link href="http://fonts.googleapis.com/css?family=ABeeZee" rel="stylesheet" type="text/css" /> <link href="http://cursos.educacion.be/bootstrap.css" rel="stylesheet" type="text/css" /> <link href="http://cursos.educacion.be/bootstrap-responsive.css" rel="stylesheet" type="text/css" /></p>
+<div class="container-fluid">
+<div class="row-fluid">
+<div class="span3 tiny ">
+<div class="pricing-table-header-tiny" style="text-align: center; background: #ffd500; color: white;">
+<h2>MS Excel B</h2>
+<h3><img src="https://www.icip.edu.pe/sites/default/files/styles/thumbnail_de_cursos/public/ms-excel-2013-basico-paginaweb.png?itok=kVbr3GZE" /></h3>
+</div>
+</div>
+<div class="span3 small">
+<div class="pricing-table-header-small" style="background-color: #9e00b8; text-align: center; color: white;">
+<h2>MS Excel I</h2>
+<h3><img src="https://www.icip.edu.pe/sites/default/files/styles/thumbnail_de_cursos/public/ms-excel-2013-intermedio-paginaweb.png?itok=gzpwBEub" /></h3>
+</div>
+</div>
+<div class="span3 medium">
+<div class="pricing-table-header-medium" style="background: #0078d7; color: white; text-align: center;">
+<h2>MS Excel A</h2>
+<h3><img src="https://www.icip.edu.pe/sites/default/files/styles/thumbnail_de_cursos/public/ms-excel-2013-avanzado-paginaweb.png?itok=6aY17Aae" /></h3>
+</div>
+</div>
+<div class="span3 pro">
+<div class="pricing-table-header-pro" style="background: red; color: white; text-align: center;">
+<h2>MS Access B</h2>
+<h3><img src="https://www.icip.edu.pe/sites/default/files/styles/thumbnail_de_cursos/public/ms-access-basico-paginaweb.png?itok=ahD_am2U" /></h3>
+</div>
+</div>
+</div>
+</div>
+<p></p>
+<p></p>
+<p><meta charset="utf-8" />
+<title>Flat Pricing Tables</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="description" content="" /><meta name="author" content="" /></p>
+<p><link rel="stylesheet" href="http://cursos.educacion.be/style.css" type="text/css" /> <link href="http://fonts.googleapis.com/css?family=ABeeZee" rel="stylesheet" type="text/css" /> <link href="http://cursos.educacion.be/bootstrap.css" rel="stylesheet" type="text/css" /> <link href="http://cursos.educacion.be/bootstrap-responsive.css" rel="stylesheet" type="text/css" /></p>
+<div class="container-fluid">
+<div class="row-fluid">
+<div class="span3 tiny ">
+<div class="pricing-table-header-tiny" style="text-align: center; background: #ffd500; color: white;">
+<h2>MS Access A</h2>
+<h3><img src="https://www.icip.edu.pe/sites/default/files/styles/thumbnail_de_cursos/public/ms-access-avanzado-paginaweb.png?itok=CqFKXVWd" /></h3>
+</div>
+</div>
+<div class="span3 small">
+<div class="pricing-table-header-small" style="background-color: #9e00b8; text-align: center; color: white;">
+<h2>MS Windows 8</h2>
+<h3><img src="https://www.icip.edu.pe/sites/default/files/styles/thumbnail_de_cursos/public/windows8-paginaweb.png?itok=0sUwfXap" /></h3>
+</div>
+</div>
+<div class="span3 medium">
+<div class="pricing-table-header-medium" style="background: #0078d7; color: white; text-align: center;">
+<h2>MS Project</h2>
+<h3><img src="https://www.icip.edu.pe/sites/default/files/styles/thumbnail_de_cursos/public/ms-project-2013-paginaweb.png?itok=42ZH0sHU" /></h3>
+</div>
+</div>
+<div class="span3 pro">
+<div class="pricing-table-header-pro" style="background: red; color: white; text-align: center;">
+<h2>Gestión</h2>
+<h3><img src="https://www.icip.edu.pe/sites/default/files/styles/thumbnail_de_cursos/public/gestion-empresarial.png?itok=LSUUfcPQ" /></h3>
+</div>
+</div>
+</div>
+</div>
+<p></p>
+<p></p>
